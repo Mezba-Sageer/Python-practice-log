@@ -1,5 +1,5 @@
-#Q7. Write a program to accept two numbers and mathematical operators and perform operation accordingly.
-
+#Q7. Write a program to accept two numbers and mathematical operators
+# and perform operation accordingly.
 
 num1=int(input("enter no.1: "))
 num2=int(input("enter no.2: "))

@@ -5,7 +5,8 @@
 password=input("Enter the password: ")
 count=0
 index=0
-while(index<len(password)): #len()- checks the length of a string
+while(index<len(password)):
+#len()- checks the length of a string
 #while loop starts from the first character and the range stop at the length of the password
 #(used to check each character)
     if(password[index]>='0' and password[index]<='9'):

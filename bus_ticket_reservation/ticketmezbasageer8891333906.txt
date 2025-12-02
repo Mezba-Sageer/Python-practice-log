@@ -1,0 +1,18 @@
+-----------------------------
+  BUS TICKET - TRAVEL AGENCY 
+ -----------------------------
+Passenger name: Mezba sageer
+Phone number:   8891333906
+Age:            22
+Category:       Student
+Route:          Kozhikode to Kochi
+Departure Time: 01:30 PM
+Seats booked:   2
+------------------------------
+Ticket Price:   450
+Total amount:   900
+Discount:       135.0
+Final Amount:   765.0
+------------------------------
+Thank you for booking with us!
+Have a safe journey,Mezba sageer!
